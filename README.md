@@ -26,9 +26,9 @@ Para rodar o teste na sua máquina, você só precisa ter o [Node.js](https://no
    cd testeIntegracao
    ```
 
-3. Execute o arquivo do teste (substitua `index.js` pelo nome do seu arquivo, caso seja diferente):
+3. Execute o arquivo do teste:
    ```bash
-   node index.js
+   node integracao.js
    ```
 
 ## ✅ Resultado Esperado
